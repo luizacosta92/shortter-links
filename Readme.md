@@ -30,11 +30,11 @@ Para entrar em contato com Luiza Costa, utilize os links das redes sociais prese
 
 Dark mode
 
-![print do projeto links encurtados dark mode](github\preview.png)
+![print do projeto links encurtados dark mode](github/preview.png)
 
 Light mode
 
-![print do projeto links encurtados light mode](github\preview2.png)
+![print do projeto links encurtados light mode](github/preview2.png)
 
 **Detalhes adicionais:**
 
